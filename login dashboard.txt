@@ -1,0 +1,5 @@
+https://github.com/settings/developers
+
+console.cloud.google.com
+
+https://developers.facebook.com/apps/
